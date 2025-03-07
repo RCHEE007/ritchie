@@ -391,4 +391,20 @@ footer .link-group a:hover{
       font-size: 14px;
     }
   }
-  
+   .cred{
+    background-color: #20c997;
+    width: 800px;
+    height: 600px;
+    justify-content: center;
+  }
+  #pdf-container {
+    width: 80%;
+    height: 600px;
+    margin: auto;
+    text-align: center;
+}
+iframe {
+    width: 100%;
+    height: 600px;
+    border: none;
+}
